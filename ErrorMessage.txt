@@ -51,4 +51,3 @@ Code: "TRANSACTION_NOT_APPROVED_BY_APPROVER", Message: "Transaction is waiting f
 Code: "NOT_FOUND_APPLICATION", Message: "Application not found"
 Code: "USER_ALREADY_EXIST", Message: "User already exist"
 Code: "KEY_ALREADY_EXIST", Message: "Key already exist"
-Code: "NOT_FOUND_KEY", Message: "Key not found"
